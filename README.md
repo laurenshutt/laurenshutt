@@ -7,6 +7,7 @@
     <br/>
     To learn more about me, run:
     <br/>
+    <br/>
     <code>npx laurenshutt</code>
   </p>
   <img src="./npx-white.png" style="width:500px" align="center"/>
