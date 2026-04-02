@@ -16,20 +16,14 @@
   <h2>
     Where to find me
   </h2>
-  <table style="float:left">
-    <tr>
-      <td>
-        <a href="https://laurenshutt.dev">
-          laurenshutt.dev
-        </a>
-      </td>
-      <td>
-        <a href="mailto:hello@laurenshutt.dev">
-          hello@laurenshutt.dev
-        </a>
-      </td>
-    </tr>
-  </table>
+    <a href="https://laurenshutt.dev">
+      laurenshutt.dev
+    </a>
+    &nbsp;&nbsp;/&nbsp;
+    <a href="mailto:hello@laurenshutt.dev">
+      hello@laurenshutt.dev
+    </a>
+  <br/>
   <br/>
   <h2>
     Tech stack
