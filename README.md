@@ -5,7 +5,9 @@
   <p>
     I’m a front-end developer building the web for <a href="partnerships.vt.edu">Virginia Tech</a>.
     <br/>
-    To learn more about me, run: <code>npx laurenshutt</code>
+    To learn more about me, run:
+    <br/>
+    <code>npx laurenshutt</code>
   </p>
   <img src="./npx-white.png" style="width:500px" align="center"/>
   <br/>
@@ -21,13 +23,14 @@
   <br/>
   <img src="https://img.shields.io/badge/MySQL-white?style=for-the-badge&logo=mysql&logoColor=d4a1b0" alt="MySQL" style="height:30px">
   <img src="https://img.shields.io/badge/Git-white?style=for-the-badge&logo=git&logoColor=d4a1b0" alt="Git" style="height:30px">
-  <img src="https://img.shields.io/badge/JSON-white?style=for-the-badge&logo=json&logoColor=d4a1b0" alt="JSON" style="height:30px">
-  <img src="https://img.shields.io/badge/Google%20Apps%20Script-white?style=for-the-badge&logo=googleappsscript&logoColor=d4a1b0" alt="Google Apps Script" style="height:30px">
+  <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=github&logoColor=d4a1b0" alt="Github" style="height:30px">
+  <img src="https://img.shields.io/badge/Gitlab-white?style=for-the-badge&logo=gitlab&logoColor=d4a1b0" alt="Gitlab" styl="height:30px">
+  <img src="https://img.shields.io/badge/Google%20Cloud-white?style=for-the-badge&logo=googlecloud&logoColor=d4a1b0" alt="Google Cloud" style="height:30px">
   <br/>
+  <img src="https://img.shields.io/badge/Google%20Apps%20Script-white?style=for-the-badge&logo=googleappsscript&logoColor=d4a1b0" alt="Google Apps Script" style="height:30px">
   <img src="https://img.shields.io/badge/Make-white?style=for-the-badge&logo=make&logoColor=d4a1b0" alt="Make" style="height:30px">
   <img src="https://img.shields.io/badge/Notion-white?style=for-the-badge&logo=notion&logoColor=d4a1b0" alt="Notion" style="height:30px">
   <img src="https://img.shields.io/badge/WordPress-white?style=for-the-badge&logo=wordpress&logoColor=d4a1b0" alt="WordPress" style="height:30px">
-  <img src="https://img.shields.io/badge/macOS-white?style=for-the-badge&logo=macos&logoColor=d4a1b0" alt="macOS" style="height:30px">
 </div>
 
 
