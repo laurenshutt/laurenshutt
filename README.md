@@ -1,5 +1,10 @@
 # Hi! I’m Lauren
 
+To learn more about me, with npm installed enter
+```js
+npx laurenshutt
+```
+
 ```js
 const config = {
   name: "Lauren",
