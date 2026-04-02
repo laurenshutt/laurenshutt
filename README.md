@@ -4,6 +4,7 @@ To learn more about me, run:
 ```js
 npx laurenshutt
 ```
+<img src="./npx.png"/>
 
 ```js
 const config = {
