@@ -43,7 +43,7 @@
   <img src="https://img.shields.io/badge/%20%20Git-white?style=flat-square&logo=git&logoColor=d4a1b0" alt="Git" style="height:25px">
   &nbsp;
   <img src="https://img.shields.io/badge/%20%20Google%20Apps%20Script-white?style=flat-square&logo=googleappsscript&logoColor=d4a1b0" alt="Google Apps Script" style="height:25px">
-  &nbsp;&nbsp;
+  &nbsp;
   <img src="https://img.shields.io/badge/%20%20Make-white?style=flat-square&logo=make&logoColor=d4a1b0" alt="Make" style="height:25px">
   &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/%20%20Notion-white?style=flat-square&logo=notion&logoColor=d4a1b0" alt="Notion" style="height:25px">
