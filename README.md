@@ -34,24 +34,4 @@ const config = {
     "noticing when 1px is off"
   ]
 };
-
-class Human {
-  constructor(config) {
-    Object.assign(this, config);
-    this.bugsFixed = 0;
-    this.state = "idle";
-  }
-
-  code() {
-    this.bugsFixed++;
-    return "interfaces that feel calm, intentional, and slightly magical";
-  }
-
-  overthink() {
-    return true;
-  }
-}
-
-const lauren = new Human(config);
-lauren.code();
 ```
