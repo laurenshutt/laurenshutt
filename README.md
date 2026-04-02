@@ -1,6 +1,6 @@
 # Hi! I’m Lauren
 
-To learn more about me, with npm installed enter
+To learn more about me, with npm installed enter:
 ```js
 npx laurenshutt
 ```
