@@ -1,7 +1,6 @@
 <div align="center" width="100%">
-# Hi! I’m Lauren
-
-To learn more about me, run:
+# Hi! I’m Lauren  
+To learn more about me, run:  
 `js
 npx laurenshutt
 `
