@@ -10,7 +10,7 @@
     <br/>
     <code>npx laurenshutt</code>
   </p>
-  <img src="./npx-white.png" style="width:525px" align="center"/>
+  <img src="./npx.png" style="width:525px" align="center"/>
   <br/>
   <br/>
   <h2>
