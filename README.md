@@ -1,6 +1,6 @@
 <div align="center">
   <h1>
-    👋🏻 Hi! I’m Lauren  
+    Hi! I’m Lauren 👋🏻 
   </h1>
   <p>
     I’m a front-end developer building the web for <a href="partnerships.vt.edu">Virginia Tech</a>.
