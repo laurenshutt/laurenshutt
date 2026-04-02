@@ -13,6 +13,24 @@
   <br/>
   <br/>
   <h2>
+    Where to find me
+  </h2>
+  <table style="float:left">
+    <tr>
+      <td>
+        <a href="https://laurenshutt.dev">
+          laurenshutt.dev
+        </a>
+      </td>
+      <td>
+        <a href="mailto:hello@laurenshutt.dev">
+          hello@laurenshutt.dev
+        </a>
+      </td>
+    </tr>
+  </table>
+  <br/>
+  <h2>
     Tech stack
   </h2>
   <img src="https://img.shields.io/badge/HTML5-white?style=for-the-badge&logo=html5&logoColor=d4a1b0" alt="HTML5" style="height:30px"/>
