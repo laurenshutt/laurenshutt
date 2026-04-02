@@ -33,22 +33,32 @@
   <h2>
     Tech stack
   </h2>
-  <img src="https://img.shields.io/badge/HTML5-white?style=for-the-badge&logo=html5&logoColor=d4a1b0" alt="HTML5" style="height:30px"/>
-  <img src="https://img.shields.io/badge/JavaScript-white?style=for-the-badge&logo=javascript&logoColor=d4a1b0" alt="JavaScript" style="height:30px"/>
-  <img src="https://img.shields.io/badge/jQuery-white?style=for-the-badge&logo=jquery&logoColor=d4a1b0" alt="jQuery" style="height:30px">
-  <img src="https://img.shields.io/badge/Node.js-white?style=for-the-badge&logo=nodedotjs&logoColor=d4a1b0" alt="Node.js" style="height:30px">
-  <img src="https://img.shields.io/badge/PHP-white?style=for-the-badge&logo=php&logoColor=d4a1b0" alt="PHP" style="height:30px">
+  <img src="https://img.shields.io/badge/%20%20HTML5-white?style=flat-square&logo=html5&logoColor=d4a1b0" alt="HTML5" style="height:25px"/> 
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/%20%20JavaScript-white?style=flat-square&logo=javascript&logoColor=d4a1b0" alt="JavaScript" style="height:25px"/>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/%20%20jQuery-white?style=flat-square&logo=jquery&logoColor=d4a1b0" alt="jQuery" style="height:25px">
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/%20%20Node.js-white?style=flat-square&logo=nodedotjs&logoColor=d4a1b0" alt="Node.js" style="height:25px">
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/%20%20PHP-white?style=flat-square&logo=php&logoColor=d4a1b0" alt="PHP" style="height:25px">
   <br/>
-  <img src="https://img.shields.io/badge/MySQL-white?style=for-the-badge&logo=mysql&logoColor=d4a1b0" alt="MySQL" style="height:30px">
-  <img src="https://img.shields.io/badge/Git-white?style=for-the-badge&logo=git&logoColor=d4a1b0" alt="Git" style="height:30px">
-  <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=github&logoColor=d4a1b0" alt="Github" style="height:30px">
-  <img src="https://img.shields.io/badge/Gitlab-white?style=for-the-badge&logo=gitlab&logoColor=d4a1b0" alt="Gitlab" styl="height:30px">
-  <img src="https://img.shields.io/badge/Google%20Cloud-white?style=for-the-badge&logo=googlecloud&logoColor=d4a1b0" alt="Google Cloud" style="height:30px">
+  <img src="https://img.shields.io/badge/%20%20MySQL-white?style=flat-square&logo=mysql&logoColor=d4a1b0" alt="MySQL" style="height:25px">
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/%20%20Git-white?style=flat-square&logo=git&logoColor=d4a1b0" alt="Git" style="height:25px">
+  &nbsp;
+  <img src="https://img.shields.io/badge/%20%20Github-white?style=flat-square&logo=github&logoColor=d4a1b0" alt="Github" style="height:25px">
+  &nbsp;
+  <img src="https://img.shields.io/badge/%20%20Gitlab-white?style=flat-square&logo=gitlab&logoColor=d4a1b0" alt="Gitlab" style="height:25px">
+  &nbsp;
+  <img src="https://img.shields.io/badge/%20%20Google%20Cloud-white?style=flat-square&logo=googlecloud&logoColor=d4a1b0" alt="Google Cloud" style="height:25px">
   <br/>
-  <img src="https://img.shields.io/badge/Google%20Apps%20Script-white?style=for-the-badge&logo=googleappsscript&logoColor=d4a1b0" alt="Google Apps Script" style="height:30px">
-  <img src="https://img.shields.io/badge/Make-white?style=for-the-badge&logo=make&logoColor=d4a1b0" alt="Make" style="height:30px">
-  <img src="https://img.shields.io/badge/Notion-white?style=for-the-badge&logo=notion&logoColor=d4a1b0" alt="Notion" style="height:30px">
-  <img src="https://img.shields.io/badge/WordPress-white?style=for-the-badge&logo=wordpress&logoColor=d4a1b0" alt="WordPress" style="height:30px">
+  <img src="https://img.shields.io/badge/%20%20Google%20Apps%20Script-white?style=flat-square&logo=googleappsscript&logoColor=d4a1b0" alt="Google Apps Script" style="height:25px">
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/%20%20Make-white?style=flat-square&logo=make&logoColor=d4a1b0" alt="Make" style="height:25px">
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/%20%20Notion-white?style=flat-square&logo=notion&logoColor=d4a1b0" alt="Notion" style="height:25px">
+  <img src="https://img.shields.io/badge/%20%20WordPress-white?style=flat-square&logo=wordpress&logoColor=d4a1b0" alt="WordPress" style="height:25px">
 </div>
 
 
