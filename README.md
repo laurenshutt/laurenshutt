@@ -11,29 +11,7 @@
   <h3>
     Tech stack
   </h3>
-  <table>
-    <tr>
-      <td>
-        <img src="./html.svg" style="width:20px;margin-top:4px"/>
-        HTML
-      </td>
-      <td>
-        CSS
-      </td>
-      <td>
-        JavaScript
-      </td>
-      <td>
-        Node.js
-      </td>
-      <td>
-        PHP
-      </td>
-      <td>
-        SQL
-      </td>
-    </tr>
-  </table>
+  <img src="https://img.shields.io/badge/HTML5-white?style=for-the-badge&logo=html5&logoColor=d4a1b0" alt="HTML5" style="height:35px">
 </div>
 
 
