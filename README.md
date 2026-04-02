@@ -1,11 +1,11 @@
 <div align="center">
-# Hi! I’m Lauren  
-To learn more about me, run:  
-`js
-npx laurenshutt
-`
+  <h1>
+    Hi! I’m Lauren  
+  </h1>
+  <p>
+    To learn more about me, run: <code>npx laurenshutt</code>
+  </p>
+  <img src="./npx-white.png" style="width:500px" align="center"/>
 </div>
-<div>
-<img src="./npx-white.png" style="width:500px" align="center"/>
-</div>
+
 
