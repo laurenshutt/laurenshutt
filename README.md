@@ -13,6 +13,27 @@
   <img src="./npx.png" style="width:525px" align="center"/>
   <br/>
   <br/>
+</div>
+<h2>
+  ✧･ﾟ Current projects
+</h2>
+<table>
+  <tr>
+    <td width="52.5%">
+      <img src="./portfolio1.gif"/>
+    </td>
+    <td width="47.5%">
+      <h3>
+        Personal portfolio website
+      </h3>
+      <p>
+        This is a repo for my personal portfolio site. I wanted to create an early-2000s analog whimsy that could evoke the feeling of when I first fell in love with web development. I focused on building an immersive UI, with gamified microinteractions and a playful codebase featuring accessibility-aware components and lightweight, framework-free JavaScript.
+      </p>
+    </td>
+  </tr>
+</table>
+<br/>
+<div align="center">
   <h2>
     Where to find me
   </h2>
