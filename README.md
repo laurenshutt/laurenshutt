@@ -29,6 +29,9 @@
       <p>
         This is a repo for my personal portfolio site. I wanted to create an early-2000s analog whimsy that could evoke the feeling of when I first fell in love with web development. I focused on building an immersive UI, with gamified microinteractions and a playful codebase featuring accessibility-aware components and lightweight, framework-free JavaScript.
       </p>
+      <img src="https://img.shields.io/badge/%20%20HTML5-white?style=flat-square&logo=html5&logoColor=d4a1b0" alt="HTML5" style="height:25px"/> 
+      &nbsp;&nbsp;
+      <img src="https://img.shields.io/badge/%20%20JavaScript-white?style=flat-square&logo=javascript&logoColor=d4a1b0" alt="JavaScript" style="height:25px"/>
     </td>
   </tr>
 </table>
